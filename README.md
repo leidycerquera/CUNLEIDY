@@ -17,3 +17,7 @@ ASESORA DE SEGUROS Y ADMN. DE RESTAURANTE
 Nombre Completo de Compañeros	Usuario GITHUB	Enlace
 Leidy Cerquera	Cunleidy	https://github.com/leidycerquera/CUNLEIDY
 Laura Velasco	Cunlauravelasco	https://github.com/Cunlauravelasco
+
+Nombre Completo de Compañeros	Usuario GITHUB	Enlace
+Leidy Cerquera	Cunleidy	https://github.com/leidycerquera/CUNLEIDY
+Laura Velasco	Cunlauravelasco	https://github.com/Cunlauravelasco
