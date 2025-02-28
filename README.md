@@ -14,3 +14,6 @@ ASESORA DE SEGUROS Y ADMN. DE RESTAURANTE
 ## ESTUDIOS OBTENIDOS
 *Tecnólogo en sistemas y desarrollo de información	
 * Formacion complementaria IMPLEMENTACION PLAN DE NEGOCIO,FUNDAMENTACION AL EMPRENDIMIENTO,PLAN NEGOCIOS  Y SUS COMPONENTES.
+Nombre Completo de Compañeros	Usuario GITHUB	Enlace
+Leidy Cerquera	Cunleidy	https://github.com/leidycerquera/CUNLEIDY
+Laura Velasco	Cunlauravelasco	https://github.com/Cunlauravelasco
